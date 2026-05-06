@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733990234259",
+    "project_id": "boutiquecrud-4955f",
+    "storage_bucket": "boutiquecrud-4955f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733990234259:android:7bf3e888e207b5c9118566",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpRFjciNvuiRLvGo62CwEx-tLMEqGeALo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
